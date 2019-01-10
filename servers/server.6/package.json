@@ -1,0 +1,10 @@
+{
+  "name":"tiny-server-123",
+  "version": "0.0.2",
+  "bin": {
+    "tiny-server": "./index.js"
+  },
+  "dependencies": {
+    "mime-types": "^2.1.21"
+  }
+}

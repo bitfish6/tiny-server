@@ -1,0 +1,7 @@
+{
+  "name": "my-cli-123",
+  "bin": {
+    "catjs": "./cat.js",
+    "hellojs": "./hello.js"
+  }
+}
